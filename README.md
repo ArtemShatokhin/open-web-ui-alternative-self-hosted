@@ -41,6 +41,9 @@ Prefer zero setup? Sign up at [kortix.com](https://kortix.com), create a project
 - [Kortix vs Open WebUI](https://openwebuialternative.com/kortix-vs-open-webui)
 - [Best Open WebUI alternatives](https://openwebuialternative.com/best-open-webui-alternatives)
 - [Open WebUI for teams](https://openwebuialternative.com/open-web-ui-for-teams)
+- [Open WebUI vs Dify](https://openwebuialternative.com/open-web-ui-vs-dify)
+- [Is Open WebUI safe to self-host?](https://openwebuialternative.com/is-open-web-ui-safe)
+- [Open WebUI for enterprise](https://openwebuialternative.com/open-web-ui-for-enterprise)
 - [Self-hosting notes](https://openwebuialternative.com/self-hosting)
 
 Kortix is the open-source AI Operating System. Self-host for free, or use Kortix Cloud.
