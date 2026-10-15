@@ -40,10 +40,12 @@ Prefer zero setup? Sign up at [kortix.com](https://kortix.com), create a project
 
 - [Kortix vs Open WebUI](https://openwebuialternative.com/kortix-vs-open-webui)
 - [Best Open WebUI alternatives](https://openwebuialternative.com/best-open-webui-alternatives)
-- [Open WebUI for teams](https://openwebuialternative.com/open-web-ui-for-teams)
+- [Open WebUI for teams](https://openwebuialternative.com/open-webui-for-teams)
 - [Open WebUI vs Dify](https://openwebuialternative.com/open-web-ui-vs-dify)
 - [Is Open WebUI safe to self-host?](https://openwebuialternative.com/is-open-web-ui-safe)
 - [Open WebUI for enterprise](https://openwebuialternative.com/open-web-ui-for-enterprise)
 - [Self-hosting notes](https://openwebuialternative.com/self-hosting)
+
+The rest of the site covers the questions a self-hosted team meets after the install. [How to install Open WebUI](https://openwebuialternative.com/how-to-install-open-web-ui) collects the Docker and pip commands from Open WebUI's own docs, and [Open WebUI RAG](https://openwebuialternative.com/open-web-ui-rag) walks through knowledge bases and document retrieval. The cost side has two pages: [Open WebUI pricing](https://openwebuialternative.com/open-web-ui-pricing) and [is Open WebUI free](https://openwebuialternative.com/is-open-web-ui-free), both built from what Open WebUI's own enterprise page says about the free tier and the paid white-label path. If the install has outgrown its use, [migrate from Open WebUI](https://openwebuialternative.com/migrate-from-open-web-ui) covers the move to a system where agents run the work. Two comparisons round out the app-style tools: [Open WebUI vs Jan](https://openwebuialternative.com/open-web-ui-vs-jan) covers the desktop app that runs models offline, and [Open WebUI vs Msty](https://openwebuialternative.com/open-web-ui-vs-msty) covers the privacy-first desktop app that runs local and online models.
 
 Kortix is the open-source AI Operating System. Self-host for free, or use Kortix Cloud.
